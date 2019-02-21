@@ -120,7 +120,6 @@ for (i=0; i<selectArray.length; i++){
 
 COMBO 3
 
-*/
 
 var inputInfo = document.getElementById('myForm');
 console.log(inputInfo);
@@ -131,3 +130,5 @@ console.log(inputArray);
 for (i=0; i<inputArray.length; i++) {
     console.log(inputArray[i].value);
 }
+
+*/
